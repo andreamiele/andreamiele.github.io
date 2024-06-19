@@ -19,9 +19,9 @@ social: true # includes social icons at the bottom of the page
 **Research interests**: Deep RL, Multi Agent RL, Foundation Models, Sequential Decision-Making
 
 Hi, welcome here!
-I'm currenlty pursuing an MSc in Computer Science @ EPFL. My ongoing research projects are centered around online reinforcement learning and multi-agent reinforcement learning.
+I'm currenlty pursuing an MSc in Computer Science @ [EPFL](https://www.epfl.ch/education/master/programs/computer-science/). My ongoing research projects are centered around online reinforcement learning and multi-agent reinforcement learning. I'm currently working in the [Caglar Gulcehre Lab for AI Research](https://www.epfl.ch/labs/claire/).
 
-Earlier this year, I completed an internship at Roche.
+Earlier this year, I completed an internship at [Roche](https://www.roche.com/).
 
 if you need more informations, please feel free to explore the publications and projects pages!
 
