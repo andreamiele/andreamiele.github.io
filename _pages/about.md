@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: French CS, AI, MSc in Computer Science @ EPFL / Research Intern @ Naver Labs Europe / ex-Machine Learning Engineer Intern @Roche
+subtitle: MSc in Computer Science @ EPFL
 
 profile:
   align: right
@@ -18,6 +18,8 @@ social: true # includes social icons at the bottom of the page
 
 **Research interests**: Deep RL, Multi Agent RL, Foundation Models, Sequential Decision-Making
 
-Currenlty pursuing an MSc in Computer Science @ [EPFL](https://www.epfl.ch/education/master/programs/computer-science/). My ongoing research projects are centered around online reinforcement learning and multi-agent reinforcement learning. I'm currently working in the [Caglar Gulcehre Lab for AI Research](https://www.epfl.ch/labs/claire/).
+Research Intern @ Naver Labs Europe / ex-Machine Learning Engineer Intern @Roche.
 
-When I’m not doing research or working on my projects, you can find me running 🏃, hitting the gym 💪, practicing judo 🥋, biking 🚴, hiking 🏞️, or doing photography 📸.x
+My ongoing research projects are centered around online reinforcement learning and multi-agent reinforcement learning. I'm currently working in the [Caglar Gulcehre Lab for AI Research](https://www.epfl.ch/labs/claire/).
+
+I also enjoy running 🏃, hitting the gym 💪, practicing judo 🥋, biking 🚴, hiking 🏞️, or doing photography 📸.x
