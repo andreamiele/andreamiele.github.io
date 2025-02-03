@@ -1,0 +1,147 @@
+
+@import 'katex/dist/katex.min.css';
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body,html {
+  padding: 0;
+  margin: 0;
+  font-family: Fira Code,monospace;
+  line-height: 1.6;
+  font-size: 14px
+}
+div {
+  display: block;
+  unicode-bidi: isolate;
+}
+
+body {
+  background-color: #333;
+  color: var(--text-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+}
+h1 {
+  font-size: 1.5em;
+  margin-top: 0;
+  margin-bottom: 1em;
+  text-align: left;
+  border-bottom: 3px solid #333;
+  padding-bottom: .5em
+}
+
+h2 {
+  font-size: 1.3em
+}
+
+h2,h3 {
+  margin-bottom: .5em
+}
+
+h3 {
+  font-size: 1.1em;
+  margin-top: 1em
+}
+
+p {
+  margin-bottom: 1em
+}
+
+.centering {
+  text-align: center
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: none
+}
+
+a:hover {
+  text-decoration: underline
+}
+
+a:visited {
+  color: var(--visited-link-color)
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1em
+}
+
+td,th {
+  border: 1px solid #333;
+  padding: .5em;
+  text-align: left
+}
+
+th {
+  background-color: #e6e5da
+}
+
+.no-top {
+  margin-top: 0
+}
+
+.secret {
+  color: var(--secret-color);
+  font-weight: 700
+}
+
+img {
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  display: inline-block;
+  margin: 0 auto
+}
+.quote {
+  font-size: 0.9em;
+  padding: 1.2em 1.5em;
+  margin: 1em 0;
+  background-color: #e6e5da;
+  color: var(--text-color);
+  border-left: 4px solid #d3b300;
+  border-radius: 0 4px 4px 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: block;
+  position: relative;
+  font-family: 'Fira Code', monospace;
+  line-height: 1.5;
+  quotes: "" " " "";
+}
+@media (max-width: 800px) {
+  .quote {
+      font-size: 0.85em;
+      padding: 1em 1.2em;
+  }
+}
+
